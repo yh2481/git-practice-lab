@@ -1,1 +1,5 @@
-﻿# My Skills - C Programming, Python
+﻿# My Skills
+
+- C Programming
+- Python
+- Git & GitHub
