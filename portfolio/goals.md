@@ -1,1 +1,1 @@
-﻿I want to be get friendly with using Git
+﻿This month, I want to become more comfortable with using Git.
